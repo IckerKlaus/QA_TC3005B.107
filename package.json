@@ -1,0 +1,12 @@
+{
+  "name": "qa-tc3005b-triangulos",
+  "version": "1.0.0",
+  "description": "Clasificación de triángulos (Myers) con pruebas Jest",
+  "private": true,
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

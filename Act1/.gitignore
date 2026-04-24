@@ -1,0 +1,23 @@
+# Dependencias y cobertura (Node / Jest)
+node_modules/
+coverage/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Logs y cachés de npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.eslintcache
+
+# Variables de entorno locales (si las usas más adelante)
+.env
+.env.*.local
+
+# Editores / IDEs (opcional; quita la carpeta si versionáis ajustes del equipo)
+.idea/
